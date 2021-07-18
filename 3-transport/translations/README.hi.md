@@ -16,7 +16,7 @@
 
 1. [स्थान ट्रैकिंग](lessons/1-location-tracking/README.md)
 1. [स्थान डेटा स्टोर करें](./3-transport/lessons/2-store-location-data/README.md)
-1. [स्थान डेटा की कल्पना करें](lessons/3-visualize-location-data/README.md)
+1. [स्थान डेटा को विज़ूअलायज़ करें](lessons/3-visualize-location-data/README.md)
 1. [जियोफेंस](lessons/4-geofences/README.md)
 
 ## क्रेडिट
